@@ -8,8 +8,8 @@ export default function Dashboard() {
       {/* User Info Card */}
       <section className="w-full flex items-center justify-between p-6 mb-12 rounded-xl shadow-lg bg-white border-2 border-gray-300 transition-transform transform hover:scale-105 duration-300 ease-in-out">
         <div className="flex flex-col">
-          <h2 className="text-2xl font-semibold">John Doe</h2>
-          <p className="text-lg font-medium text-gray-500">San Francisco, CA</p>
+          <h2 className="text-2xl font-semibold">Pushkar Vrashney</h2>
+          <p className="text-lg font-medium text-gray-500">Phagwara, punjab</p>
         </div>
       </section>
 
